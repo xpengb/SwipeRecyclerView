@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwipeRecyclerView">
+        <attr name="swipe_able" format="boolean"/>
+        <attr name="load_more_able" format="boolean"/>
+    </declare-styleable>
+</resources>
